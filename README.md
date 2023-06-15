@@ -1,3 +1,9 @@
+This project was created as a way for me to prep for a technical interview I had coming up. I learned React-Redux using this project and some documentation/tutorials
+This project was completed in about 6 days.
+It utilizes Star Wars API to pull in data using an Async Thunk and populates the employeeList with using my custom Types.
+
+I'd like to test some post requests and maybe add auth token to the header as practice as well. Learned a lot about setting up React-Redux projects and state management
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
